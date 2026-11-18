@@ -1,0 +1,34 @@
+{
+  "nama": "Kolam Pemancingan Waluh",
+  "harga": 10000,
+  "alamat": "",
+  "whatsapp": "",
+  "email": "madfahmi08@gmail.com",
+  "jam": "",
+  "deskripsi": "Tempat yang pas untuk mengisi waktu luang, menyalurkan hobi memancing, dan berkumpul bersama orang-orang terdekat.",
+  "hero_image": "",
+  "foto_utama": "",
+  "foto_kedua": "",
+  "galeri": [
+    {
+      "judul": "Foto Kolam 1",
+      "gambar": "",
+      "alt": "Foto kolam pemancingan"
+    },
+    {
+      "judul": "Foto Kolam 2",
+      "gambar": "",
+      "alt": "Suasana kolam pemancingan"
+    },
+    {
+      "judul": "Foto Kolam 3",
+      "gambar": "",
+      "alt": "Suasana Kolam Pemancingan Waluh"
+    },
+    {
+      "judul": "Foto Kolam 4",
+      "gambar": "",
+      "alt": "Suasana Kolam Pemancingan Waluh"
+    }
+  ]
+}

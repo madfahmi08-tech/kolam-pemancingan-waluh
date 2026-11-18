@@ -1,0 +1,33 @@
+
+media:
+  input: media
+  output: /media
+
+content:
+  - name: site
+    label: Pengaturan Kolam Waluh
+    type: file
+    path: data/site.json
+    format: json
+    fields:
+      - name: nama
+        label: Nama kolam
+        type: string
+      - name: harga
+        label: Harga sewa
+        type: number
+      - name: alamat
+        label: Alamat
+        type: text
+      - name: whatsapp
+        label: Nomor WhatsApp
+        type: string
+      - name: email
+        label: Email
+        type: string
+      - name: jam
+        label: Jam operasional
+        type: string
+      - name: deskripsi
+        label: Deskripsi
+        type: text
